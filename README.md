@@ -2,43 +2,32 @@
 
 # Filter combination for Vivaldi's Built-in Adblocker
 
-Allow every list to use ABP Snippet rules. Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
+Allow every list to use ABP Snippet rules and uncheck "Rules that allow the document type cause all resources to be allowed for
+matching pages". Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
 
-⭐ Built-in lists ⭐ ( Compliment for other filters )
-
+🔍 Tracker Blocking Sources
+Built-in:
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
 2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
-3. AdBlock Warning Removal List ( https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt )
-4. Fanboy's Annoyance list ( https://secure.fanboy.co.nz/fanboy-annoyance.txt )
-    EasyList Cookie List and Fanboy's Social Blocking List are already included, there is no need to subscribe to them if you already have Fanboy's Annoyance List.
+Custom: (Must) ✨
+1. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 
-⭐ AdGuard Filter lists ⭐ ( Must include )
-
-These 3 links are taken from AdGuard's official site ( https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters ) .
-Make sure use these exact 3 links, not other mirrors of a same filter. Don't use any of HaGeZi's lists with these 3 lists.
-
-5. AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt )
-   AdGuard English filter +EasyList = AdGuard Base Filter.
-   I don't know why but AdGuard Base Filter blocks FB sidebar ads only when I put it into the Tracker Blocking Sources.
-7. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
-8. AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt )
-   AdGuard Annoyances filter contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets.
-
-⭐ uBlock Default lists ⭐ (Good to include)
-
-8. uBlock filters - Other Annoyances ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/annoyances-others.txt )
-9. uBlock filters - Unbreak ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/unbreak.txt )
-10. uBlock Filters - Quick fixes ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/quick-fixes.txt )
-11. ublock Filters - Badware risks ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/badware.txt )
-12. uBlock Filters ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt )
-13. uBlock filters - Privacy ( https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/privacy.txt )
-
-⭐ Malware protection lists ⭐ (Optional)
-
-14. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
-15. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
-
-Though it is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
+🛡️ Ad Blocking Sources
+Built-in:
+1. AdBlock Warning Removal List ( https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt )
+Custom: (Must) ✨
+1. AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt ) (It includes Easylist, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters)
+2. HaGeZi's Pro++ DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt )
+Annoyance list: (Must) ✨
+1. AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt ) (AdGuard Annoyances filter contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
+Social list: (Optional)
+1. AdGuard social media filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt ) ( Link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
+Badware list: (Optional)
+1. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
+2. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
+Gambling and Porn blocker list: (Optional)
+1. HaGeZi's Gambling DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt )
+2. HaGeZi's NSFW DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt )
 
 # Filter Library
 
