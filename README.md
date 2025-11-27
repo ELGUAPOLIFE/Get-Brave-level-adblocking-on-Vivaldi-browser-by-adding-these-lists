@@ -7,27 +7,27 @@ matching pages". Don't use any unnecessary extra filters with the lists below. I
 
 🔍 Tracker Blocking Sources
 Built-in:
-1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
-2. EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
+ DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
+ EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
 Custom: (Must) ✨
-1. AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
+ AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 
 🛡️ Ad Blocking Sources
 Built-in:
-1. AdBlock Warning Removal List ( https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt )
+ AdBlock Warning Removal List ( https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt )
 Custom: (Must) ✨
-1. AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt ) (It includes Easylist, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters)
-2. HaGeZi's Pro++ DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt )
+ AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt ) (It includes Easylist, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters)
+ HaGeZi's Pro++ DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt )
 Annoyance list: (Must) ✨
-1. AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt ) (AdGuard Annoyances filter contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
+ AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt ) (AdGuard Annoyances filter contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
 Social list: (Optional)
-1. AdGuard social media filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt ) ( Link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
+ AdGuard social media filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt ) ( Link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
 Badware list: (Optional)
-1. Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
-2. Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
+ Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
+ Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
 Gambling and Porn blocker list: (Optional)
-1. HaGeZi's Gambling DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt )
-2. HaGeZi's NSFW DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt )
+ HaGeZi's Gambling DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt )
+ HaGeZi's NSFW DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt )
 
 # Filter Library
 
