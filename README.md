@@ -49,6 +49,8 @@ Gambling and Porn blocker list: (Optional)
  
  HaGeZi's NSFW DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt )
 
+Though it is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.
+
 # Filter Library
 
 1. DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
