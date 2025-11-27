@@ -6,25 +6,33 @@ Allow every list to use ABP Snippet rules and uncheck "Rules that allow the docu
 matching pages". Don't use any unnecessary extra filters with the lists below. It can reduce the blocking capability of these filters, specially the wrong combinations of AdGuard, ABP anti-CV and HaGeZi filters.
 
 🔍 Tracker Blocking Sources
+
 Built-in:
  DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
  EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
+
 Custom: (Must) ✨
  AdGuard Tracking Protection Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt )
 
 🛡️ Ad Blocking Sources
+
 Built-in:
  AdBlock Warning Removal List ( https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt )
+
 Custom: (Must) ✨
  AdGuard Base Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt ) (It includes Easylist, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters)
  HaGeZi's Pro++ DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt )
+
 Annoyance list: (Must) ✨
  AdGuard Annoyances Filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt ) (AdGuard Annoyances filter contains the following AdGuard filters: Cookie Notices, Popups, Mobile App Banners, Other Annoyances and Widgets, link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
+
 Social list: (Optional)
  AdGuard social media filter ( https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt ) ( Link taken from [their official site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters )
+
 Badware list: (Optional)
  Phishing URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/phishing-filter-vivaldi.txt )
  Malicious URL Blocklist Vivaldi ( https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt )
+
 Gambling and Porn blocker list: (Optional)
  HaGeZi's Gambling DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt )
  HaGeZi's NSFW DNS Blocklist ( https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt )
