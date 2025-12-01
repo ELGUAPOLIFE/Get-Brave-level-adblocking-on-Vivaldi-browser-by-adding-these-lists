@@ -10,7 +10,6 @@ matching pages". Don't use any unnecessary extra filters with the lists below. I
 Built-in:
  
  DuckDuckGo Tracker Radar ( https://downloads.vivaldi.com/ddg/tds-v2-current.json )
- 
  EasyPrivacy ( https://downloads.vivaldi.com/easylist/easyprivacy-current.txt )
 
 Custom: (Must) ✨
