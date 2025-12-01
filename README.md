@@ -15,7 +15,7 @@
 *   [DuckDuckGo Tracker Radar](https://downloads.vivaldi.com/ddg/tds-v2-current.json)
 *   [EasyPrivacy](https://downloads.vivaldi.com/easylist/easyprivacy-current.txt)
 
-### Custom Filters (Must) ✨
+### Custom Trackers Filters (Must) ✨
 
 *   [AdGuard Tracking Protection Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt) (Link from official [AdGuard site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
 
@@ -25,7 +25,7 @@
 
 *   [AdBlock Warning Removal List](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)
 
-### Custom Filters (Must) ✨
+### Custom Adblocking Filters (Must) ✨
 
 *   [AdGuard Base Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) (Includes Easylist, link from official [AdGuard site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
 *   [HaGeZi's Pro++ DNS Blocklist](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt)
