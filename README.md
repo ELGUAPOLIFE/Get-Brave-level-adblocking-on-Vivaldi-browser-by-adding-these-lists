@@ -27,7 +27,7 @@
 
 ### Custom Filters (Must) ✨
 
-*   [AdGuard Base Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) (Includes Easylist, link from official [site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
+*   [AdGuard Base Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) (Includes Easylist, link from official [AdGuard site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
 *   [HaGeZi's Pro++ DNS Blocklist](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt)
 
 ## Annoyance Filters (Must) ✨
