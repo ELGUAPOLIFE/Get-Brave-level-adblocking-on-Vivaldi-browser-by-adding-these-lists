@@ -17,7 +17,7 @@
 
 ### Custom Filters (Must) ✨
 
-*   [AdGuard Tracking Protection Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt)
+*   [AdGuard Tracking Protection Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt) (Link from official [AdGuard site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
 
 ## 🛡️ Ad Blocking Sources
 
@@ -32,7 +32,7 @@
 
 ## Annoyance Filters (Must) ✨
 
-*   [AdGuard Annoyances Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt) (Combines: Cookie Notices, Popups, Mobile App Banners, Other Annoyances, Widgets. Link from official site)
+*   [AdGuard Annoyances Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt) (Combines: Cookie Notices, Popups, Mobile App Banners, Other Annoyances, Widgets. Link from official [AdGuard site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
 
 ## Social Media Filters (Optional)
 
