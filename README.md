@@ -36,7 +36,7 @@
 
 ## Social Media Filters (Optional)
 
-*   [AdGuard Social Media Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt) (Link from official site)
+*   [AdGuard Social Media Filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt) (Link from official [AdGuard site](https://adguard.com/kb/general/ad-filtering/adguard-filters/#adguard-filters))
 
 ## Malicious Content Filters (Optional)
 
