@@ -47,3 +47,6 @@
 
 *   [HaGeZi's Gambling DNS Blocklist](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt)
 *   [HaGeZi's NSFW DNS Blocklist](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt)
+
+**Notes:**
+**Though it is very hard to block YouTube and Facebook ads actively without any extension because big techs always host ads from their own domains, use dynamic content, and change structure over and over again.**
