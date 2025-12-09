@@ -23,6 +23,7 @@
 
 ### Built-in Filters
 
+*   [ABP Anti-Circumvention List](https://downloads.vivaldi.com/lists/abp/abp-filters-anti-cv-current.txt)
 *   [AdBlock Warning Removal List](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)
 
 ### Custom Adblocking Filters (Must) ✨
