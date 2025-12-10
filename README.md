@@ -30,6 +30,7 @@
 
 *   [AdGuard Base Filter](https://filters.adtidy.org/extension/chromium/filters/2.txt) (Includes Easylist)
 *   [HaGeZi's Pro++ DNS Blocklist](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt)
+*   And use a regional filter based on your region.
 
 ## Annoyance Filters (Must) ✨
 
