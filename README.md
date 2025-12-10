@@ -50,3 +50,5 @@
 *   [HaGeZi's NSFW DNS Blocklist](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt) (Blocks Adult Contents)
 
 ### Notes: Blocking Instagram and Facebook ads without an extension is exceptionally difficult because major technology companies host ads on their proprietary domains, employ dynamic content, and frequently revise their ad delivery structures.
+
+![Said by the author of Fanboy list](https://github.com/ELGUAPOLIFE/Get-Brave-level-adblocking-on-Vivaldi-browser-by-adding-these-lists/blob/main/Screenshot%202025-12-10%20163614.png)
